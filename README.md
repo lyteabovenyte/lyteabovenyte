@@ -1,1 +1,1 @@
-fozol
+minimalistic
