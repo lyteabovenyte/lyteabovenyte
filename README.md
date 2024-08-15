@@ -1,4 +1,3 @@
 minimalistic
 
-
-mastodon --> @lyteabovenyte@mastodon.socia
+interesting topics at mastodon --> https://mastodon.social/@lyteabovenyte
