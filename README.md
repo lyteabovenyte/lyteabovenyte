@@ -1,3 +1,3 @@
-minimalistic
+**minimalistic** and **custom lover**
 
-interesting topics at mastodon --> https://mastodon.social/@lyteabovenyte
+interesting topics at _mastodon_ --> https://mastodon.social/@lyteabovenyte
