@@ -1,3 +1,3 @@
-**minimalistic** and **custom lover**
+**self-aware**, **night owl**, **minimalistic** and **custom lover**
 
-interesting topics at _mastodon_ --> https://mastodon.social/@lyteabovenyte
+interesting topics and thoughts: [Mastadon](https://mastodon.social/@lyteabovenyte) or [X](https://x.com/lyteabovenyte)
