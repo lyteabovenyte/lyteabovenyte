@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lyteabovenyte&layout=compact&hide=jupyter%20notebook,html" alt="Top Langs">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lyteabovenyte&layout=compact&hide=jupyter%20notebook,html,java" alt="Top Langs">
 </p>
 
 <p align="center">
