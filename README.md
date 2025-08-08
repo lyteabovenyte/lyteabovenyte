@@ -1,4 +1,3 @@
-<h1 align="center">Amir Alaeifar</h1>
 <p align="center"><em>Rustacean at Heart · ML in Mind · DevOps in Practice</em></p>
 
 <p align="center">
