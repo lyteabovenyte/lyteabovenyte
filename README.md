@@ -1,8 +1,6 @@
-<p align="center"><em>Rustacean at Heart · ML in Mind · DevOps in Practice</em></p>
+<p align="center"><strong><em>Rustacean at Heart · ML in Mind · DevOps in Practice</em></strong></p>
 
-<p align="center">
-  Classic · Algorithmic · Self-aware · Night owl · Minimalistic · Custom lover
-</p>
+<p align="center"><em>Classic · Algorithmic · Self-aware · Night owl · Minimalistic · Custom lover</em></p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lyteabovenyte&layout=compact&hide=jupyter%20notebook,html,java" alt="Top Langs">
