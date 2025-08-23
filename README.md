@@ -3,7 +3,7 @@
 <p align="center"><em>Classic · Algorithmic · Self-aware · Night owl · Minimalistic · Custom lover</em></p>
 
 <p align="center">
-  
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lyteabovenyte&layout=compact&hide=jupyter%20notebook,html,java&cache_bust=0" alt="Top Langs">
 </p>
 
 <p align="center">
