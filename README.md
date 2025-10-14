@@ -1,6 +1,6 @@
-<p align="center"><strong><em>Algorithmic Thinker · Math Enthusiast · Problem Solver</em></strong></p>
+<p align="center"><strong><em>Algorithmic Thinker · Math Enthusiast · Problem Solver . Optimizer</em></strong></p>
 
-<p align="center"><em>Classic · Analytical · Self-driven · Night owl · Minimalistic · Precision lover</em></p>
+<p align="center"><em>Classic · Analytical · Self-driven · Night owl · Minimalistic · Simplicity</em></p>
 
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lyteabovenyte&layout=compact&hide=jupyter%20notebook,html,java&cache_bust=0" alt="Top Langs">
@@ -17,5 +17,5 @@
 <p align="center"><strong>Focus Areas</strong></p>
 
 <p align="center">
-  Competitive Programming · Probability & Statistics · Algorithms & Data Structures · Mathematical Problem Solving
+  Theoritical Machine Learning · Probability & Statistics · Optimization · Problem Solving
 </p>
