@@ -1,6 +1,6 @@
 <p align="center"><strong><em>Algorithmic Thinker · Math Enthusiast · Problem Solver . Optimizer</em></strong></p>
 
-<p align="center"><em>Classic · Analytical · Self-driven · Night owl · Minimalistic · Simplicity</em></p>
+<p align="center"><em>Classic · Analytical · Self-driven · Night owl · Minimalistic</em></p>
 
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lyteabovenyte&layout=compact&hide=jupyter%20notebook,html,java&cache_bust=0" alt="Top Langs">
